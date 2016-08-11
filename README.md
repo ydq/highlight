@@ -1,1 +1,4 @@
-# highlight
+#use
+```javascript
+$('pre').highlight();
+```
